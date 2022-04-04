@@ -12,6 +12,7 @@ I organized the data in a way that would highlight the different outcomes (succe
 ![This is an image](https://github.com/dgeroux/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 I organized the data in a way that would highlight the different outcomes (successful, failed, canceled) of the Kickstarter campaigns based on their respective goals. To make the analysis more relevant to Louise, I filtered out all other campaign subcateogories leaving just the 'plays' subvateogory. The purpose of this analysis was to determine if there were any advantages to setting a specific goal for a campaign.  
+![This is an image](https://github.com/dgeroux/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
